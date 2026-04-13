@@ -12,11 +12,7 @@
 		<docker.image.prefix>kammana</docker.image.prefix>
 	</properties>	
 	<dependencies>
-		<dependency>
-		    <groupId>com.oracle.bedrock</groupId>
-		    <artifactId>bedrock-runtime-maven</artifactId>
-		    <version>7.1.2</version>
-		</dependency>
+	
 		<repositories>
     <repository>
         <id>oracle-repo</id>
