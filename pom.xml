@@ -13,12 +13,6 @@
 	</properties>	
 	<dependencies>
 	
-		<repositories>
-    <repository>
-        <id>oracle-repo</id>
-        <url>https://maven.oracle.com</url>
-    </repository>
-</repositories>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
