@@ -17,7 +17,12 @@
 		    <artifactId>bedrock-runtime-maven</artifactId>
 		    <version>7.1.2</version>
 		</dependency>
-		
+		<repositories>
+    <repository>
+        <id>oracle-repo</id>
+        <url>https://maven.oracle.com</url>
+    </repository>
+</repositories>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
